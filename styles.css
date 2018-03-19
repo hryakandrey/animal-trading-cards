@@ -1,0 +1,41 @@
+body {
+    color: green;
+    background-color: lightslategrey;
+}
+
+img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  border: 1px solid green;
+}
+
+.card {
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px;
+  border: 1px solid green;
+  border-radius: 5px;
+  box-shadow: 5px 5px green;
+  background-color: #E3FB71;
+}
+
+.info {
+  width: 280px;
+  padding: 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+li span {
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
